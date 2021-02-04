@@ -2,13 +2,13 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
 Some information about you!
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Aeronautical engineer, master in GNSS, experience in research projects in aeronautics, renewable energies and aerospace. Proactive person with a high sense of team work. Particular interests in astronomy and science fiction. Love to practice football and cycling.
 
 ### Contact me
 
