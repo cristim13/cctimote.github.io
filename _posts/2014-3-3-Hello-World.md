@@ -1,7 +1,5 @@
 ---
 layout: post
-title: You're up and running!
+title: Extraterrestrial relays (En español)
 published: true
 ---
-How's the ?
-
